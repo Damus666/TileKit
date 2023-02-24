@@ -16,7 +16,6 @@ class Application:
         self.editor = Editor(self,self.editor_manager)
         self.state_index = 0
         self.state:State = self.menu
-        self.change_state(1,"TestProject")
         
     def change_state(self,index,name):
         if index == 1:

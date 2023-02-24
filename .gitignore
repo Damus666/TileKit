@@ -2,6 +2,7 @@
 __pycache__/
 editor/__pycache__/
 pyloader/__pycache__/
+.VSCodeCounter/
 *.py[cod]
 
 # C extensions

@@ -10,7 +10,7 @@ There is also the pytilekit.py module that can read an exported JSON and convert
 
 Run the editor running 'tilekit.py' with python 3.10+ and pygame 2.1+
 
-Use the module importing 'pytilekit.py' into your project and calling the <pre><code>load()</code></pre> function passing the TextIOWrapper of the exported JSON
+Use the module importing 'pytilekit.py' into your project and calling the <code>load()</code> function passing the TextIOWrapper of the exported JSON
 
 If you use another language you can parse the save yourself, considering the JSON is structured like this:
 <pre><code>
